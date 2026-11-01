@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/kmd-labs/.github/assets-v1/profile/assets/kmd-black-orange.svg" alt="KMD Labs" width="220" />
+  <img src="https://raw.githubusercontent.com/kmd-labs/.github/assets-v2/profile/assets/kmd-black-orange-white-bg.svg" alt="KMD Labs" width="220" />
 
   <p><strong>Planetary, Oceanographic & Geospatial Interactive Visualizations</strong></p>
 
