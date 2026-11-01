@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/kmd-labs/.github/assets-v1/profile/assets/kmd-black-orange.svg" alt="KMD Labs" width="220" />
+  <img src="https://raw.githubusercontent.com/kmd-labs/.github/assets-v3/profile/assets/kmd-black-orange-square.svg" alt="KMD Labs" width="180" />
 
   <p><strong>Planetary, Oceanographic & Geospatial Interactive Visualizations</strong></p>
 
   <p>
-    <a href="https://kmd-labs.github.io/landing/"><img src="https://img.shields.io/badge/Website-kmd--labs.org-ff6a2e?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://kmd-labs.org/"><img src="https://img.shields.io/badge/Website-kmd--labs.org-ff6a2e?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
     <a href="mailto:hello@kmd-labs.org?subject=Project%20Inquiry%20%C2%B7%20KMD%20Labs&body=Hello%20KMD%20Labs%20team,%0A%0AI%20would%20like%20to%20discuss%20an%20interactive%20data%20visualization%20or%20geospatial%20application%20project.%0A%0ABest%20regards,"><img src="https://img.shields.io/badge/Contact-hello%40kmd--labs.org-000000?style=flat-square&logo=mail.ru&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/company/kmd-lab"><img src="https://img.shields.io/badge/LinkedIn-kmd--labs-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://defence-industry-space.ec.europa.eu/orbit-water-tap-11th-cassini-hackathon-2026-05-08_en"><img src="https://img.shields.io/badge/EUSPA-11th%20CASSINI%20Hackathon%20Winner-003399?style=flat-square" alt="CASSINI Winner" /></a>
@@ -53,6 +53,6 @@ The team grew out of **Viadrus AI**, the 1st Polish team to win the European fin
 
 Have complex planetary, satellite, or environmental data that needs to be visualized, or looking to collaborate?
 
-- 🌐 **Landing Page:** [https://kmd-labs.github.io/landing/](https://kmd-labs.github.io/landing/)
+- 🌐 **Landing Page:** [https://kmd-labs.org/](https://kmd-labs.org/)
 - ✉️ **Direct Inquiry:** [hello@kmd-labs.org](mailto:hello@kmd-labs.org?subject=Project%20Inquiry%20%C2%B7%20KMD%20Labs&body=Hello%20KMD%20Labs%20team,%0A%0AI%20would%20like%20to%20discuss%20an%20interactive%20data%20visualization%20or%20geospatial%20application%20project.%0A%0ABest%20regards,)
 - 💼 **LinkedIn:** [linkedin.com/company/kmd-lab](https://www.linkedin.com/company/kmd-lab)
