@@ -33,19 +33,24 @@ The team grew out of **Viadrus AI**, the 1st Polish team to win the European fin
 
 | Observatory | Live Demo | Repository | Description |
 | :--- | :--- | :--- | :--- |
+| **NASA Wildfires Model** | [Live App ↗](https://harmonization.kmd-labs.org/) | [`kmd-labs/nasa-wildfires-model`](https://github.com/kmd-labs/nasa-wildfires-model) | Harmonized 26-year MODIS & VIIRS active-fire observatory and burning activity calendar with orbital-drift correction (NASA Space Apps 2026). |
 | **Super El Niño** | [Live App ↗](https://kmd-labs.github.io/el-nino/) | [`kmd-labs/el-nino`](https://github.com/kmd-labs/el-nino) | Interactive 3D WebGL globe visualizing ENSO cycles, Walker Circulation, thermocline dynamics, and live NOAA OISST telemetry. |
-| **Baltic Watershed** | [Live App ↗](https://kmd-labs.github.io/watershed/) | [`kmd-labs/watershed`](https://github.com/kmd-labs/watershed) | 3D drainage basin model tracking riverine nitrogen & phosphorus loads and historical Baltic Sea dead zones (HELCOM / EMODnet). |
+| **Sea Drainage Basins** | [Live App ↗](https://kmd-labs.github.io/watershed/) | [`kmd-labs/watershed`](https://github.com/kmd-labs/watershed) | Interactive 3D globe of the Baltic, North, Mediterranean, Black, and Caspian sea drainage basins, river catchments, and sub-basins (HydroRIVERS / HydroBASINS). |
 | **Golfstrom / AMOC** | [Live App ↗](https://kmd-labs.github.io/golfstrom/) | [`kmd-labs/golfstrom`](https://github.com/kmd-labs/golfstrom) | Atlantic Meridional Overturning Circulation & Gulf Stream velocity streamlines, ocean dynamics, and climate tipping points. |
-| **KMD Design System** | [Repository ↗](https://github.com/kmd-labs/design-system) | [`kmd-labs/design-system`](https://github.com/kmd-labs/design-system) | Unified light-theme tokens, Angular UI primitives, and zero-friction CLI scaffolder for scientific visualization applications. |
+| **Baltic Postglacial Reconstruction** | [Live App ↗](https://kmd-labs.github.io/baltic/) | [`kmd-labs/baltic`](https://github.com/kmd-labs/baltic) | Interactive 20,000-year paleogeographic reconstruction of the Baltic Sea from the Last Glacial Maximum to the modern sea with in-browser GIA flood-fill modeling. |
+| **wroVIS — Wrocław Urban Observatory** | [Live App ↗](https://kmd-labs.github.io/wroVIS/) | [`kmd-labs/wroVIS`](https://github.com/kmd-labs/wroVIS) | Interactive geospatial visualization of Wrocław city built on OpenStreetMap, MapLibre GL JS, and PMTiles. |
+| **Polis — Archaic Hellas (600 BC)** | [Live App ↗](https://kmd-labs.github.io/polis-io/) | [`kmd-labs/polis-io`](https://github.com/kmd-labs/polis-io) | DEM-based pixel real-time strategy geosimulation of Archaic Greek city-states, Aegean maritime colonization, and terrain relief. |
+| **KMD Labs Landing** | [Live Site ↗](https://kmd-labs.org/) | [`kmd-labs/landing`](https://github.com/kmd-labs/landing) | Official KMD Labs portfolio and interactive project showcase. |
+| **KMD Design System** | [Repository ↗](https://github.com/kmd-labs/design-system) | [`kmd-labs/design-system`](https://github.com/kmd-labs/design-system) | Unified design tokens, Angular UI primitives, and zero-friction CLI scaffolder for scientific visualization applications. |
 
 ---
 
 ### 🛠️ Architecture & Technology
 
 - **Framework & Runtimes:** Angular 21 (standalone components, signals), TypeScript 5.9, Vite / esbuild
-- **3D & Graphics:** Three.js, WebGL Shaders, D3-Geo, Canvas 2D telemetry overlays
-- **Design Tokens:** Unified Light Theme design system (`@kmd/design-system`), glassmorphic HUD panels, Inter typography
-- **Open Scientific Data:** NOAA (OISST v2.1), Copernicus Marine, EMODnet Chemistry, HELCOM, Open-Meteo
+- **3D & Graphics:** Three.js, WebGL Shaders, MapLibre GL JS, PMTiles, D3-Geo, Canvas 2D telemetry overlays
+- **Design Tokens:** Unified Light & Midnight Dark design system (`@kmd/design-system`), glassmorphic HUD panels, Inter typography
+- **Open Scientific Data:** NASA FIRMS (MODIS & VIIRS), NOAA (OISST v2.1), Copernicus Marine, HydroSHEDS (HydroRIVERS / HydroBASINS), EMODnet Chemistry, HELCOM, OpenStreetMap, Open-Meteo
 
 ---
 
